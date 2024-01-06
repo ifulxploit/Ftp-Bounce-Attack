@@ -1,0 +1,2 @@
+# requirements.txt
+ftputil==4.4.0
