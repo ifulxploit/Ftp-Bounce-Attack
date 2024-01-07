@@ -1,6 +1,8 @@
 
 # FTP Bounce Scanner
-
+<center>
+![FTP Bounce Attack](https://github.com/ifulxploit/Ftp-Bounce-Attack/raw/main/793ebd79-40ce-4318-b0c7-72d01163948e.png)
+</center>
 ## Deskripsi
 
 Program ini adalah scanner sederhana untuk mengidentifikasi apakah server FTP rentan terhadap FTP Bounce attack. Program ini menggunakan Python dan modul ftputil.
